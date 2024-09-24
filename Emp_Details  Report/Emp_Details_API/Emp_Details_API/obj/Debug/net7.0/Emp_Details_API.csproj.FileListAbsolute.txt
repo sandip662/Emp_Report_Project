@@ -1,0 +1,78 @@
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Emp_Details_API.exe
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Emp_Details_API.deps.json
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Emp_Details_API.runtimeconfig.json
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Emp_Details_API.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Emp_Details_API.pdb
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.AssemblyInfo.cs
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets\msbuild.Emp_Details_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Emp_Details_API.props
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Emp_Details_API.props
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Emp_Details_API.props
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\scopedcss\bundle\Emp_Details_API.styles.css
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Deta.6A8F2E69.Up2Date
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\refint\Emp_Details_API.dll
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.pdb
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.genruntimeconfig.cache
+C:\Users\user\Desktop\Emp_Details  API & UI\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\ref\Emp_Details_API.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Emp_Details_API.exe
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Emp_Details_API.deps.json
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Emp_Details_API.runtimeconfig.json
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Emp_Details_API.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Emp_Details_API.pdb
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.AssemblyInfo.cs
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets\msbuild.Emp_Details_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Emp_Details_API.props
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Emp_Details_API.props
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Emp_Details_API.props
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\scopedcss\bundle\Emp_Details_API.styles.css
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Deta.6A8F2E69.Up2Date
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\refint\Emp_Details_API.dll
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.pdb
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\Emp_Details_API.genruntimeconfig.cache
+C:\Users\user\Desktop\Emp_Details  API & UI Report\Emp_Details_API\Emp_Details_API\obj\Debug\net7.0\ref\Emp_Details_API.dll
