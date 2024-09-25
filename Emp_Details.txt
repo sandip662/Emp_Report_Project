@@ -1,0 +1,179 @@
+CREATE TABLE [dbo].[Employees](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[FirstName] [varchar](50) NULL,
+	[LastName] [varchar](50) NULL,
+	[Email] [nvarchar](50) NULL,
+	[Salary] [float] NULL,
+	[Active_Flag] [int] NULL,
+ CONSTRAINT [PK_Employees] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+
+
+
+
+CREATE TABLE [dbo].[tblErrorMessage](
+	[tblErrorMessage_key] [int] NOT NULL,
+	[user_key] [int] NULL,
+	[spName] [varchar](150) NULL,
+	[errorMessage] [varchar](1000) NULL,
+	[systemDate] [smalldatetime] NULL,
+ CONSTRAINT [PK_tblErrorMessage] PRIMARY KEY CLUSTERED 
+(
+	[tblErrorMessage_key] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALTER PROCEDURE  [dbo].[SP_CRUD_Emp_Details]
+
+    @REC_TYPE VARCHAR(50),
+    @Id INT,
+    @FirstName VARCHAR(50) =null,
+    @LastName VARCHAR(50)= null,
+	@Email NVARCHAR(50) = null,
+	@Salary FLOAT
+AS
+Begin
+    SET NOCOUNT ON;
+
+	--[SP_CRUD_Emp_Details]'insert', '0', 'Sourav', 'Mondal', 'email@.com', '30000'
+
+	--select * from Employees
+
+    BEGIN TRY
+
+        BEGIN TRANSACTION;
+
+        IF (@REC_TYPE = 'INSERT')
+        BEGIN
+
+
+		 -- INSERT SQL statements or logic as needed
+		INSERT INTO Employees WITH (UPDLOCK, HOLDLOCK)
+		(FirstName, LastName, Email, Salary, Active_Flag)
+		VALUES (@FirstName, @LastName, @Email, @Salary, 1 )
+		END 
+
+
+		ELSE IF (@REC_TYPE = 'UPDATE')
+        BEGIN
+            -- UPDATE SQL statements or logic as needed
+            UPDATE Employees WITH (UPDLOCK, HOLDLOCK)
+            SET FirstName = @FirstName, LastName = @LastName, Email = @Email, Salary = @Salary
+            WHERE Id = @Id;
+        END
+
+
+		 ELSE IF (@REC_TYPE = 'DELETE')
+         BEGIN
+            -- DELETE SQL statements or logic as needed
+            UPDATE Employees
+            SET ACTIVE_FLAG = 0
+            WHERE Id = @Id;
+         END
+
+
+
+		  IF @@TRANCOUNT > 0
+        BEGIN
+            COMMIT TRANSACTION;
+        END
+
+       END TRY
+
+
+       BEGIN CATCH
+        IF @@TRANCOUNT > 0
+        BEGIN
+            ROLLBACK TRANSACTION;
+        END
+
+
+        RETURN -1;
+    END CATCH;
+
+    -- Return success status or primary key value
+    RETURN @Id;
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALTER PROCEDURE  [dbo].[SP_GET_Employees]
+
+@Id INT
+	
+	--[SP_GET_Employees] 0
+As
+Begin 
+
+SET NOCOUNT ON;
+	
+   BEGIN TRY
+       
+        BEGIN TRANSACTION;
+
+        
+		
+		IF(@Id = 0)
+        BEGIN
+		    SELECT * FROM  Employees  WITH (NOLOCK) 
+			WHERE ACTIVE_FLAG = 1						
+		END
+
+		else
+		BEGIN
+		    SELECT * FROM  Employees  WITH (NOLOCK) 
+			WHERE Id = @Id						
+		END
+
+		
+	IF @@TRANCOUNT > 0
+        BEGIN
+            COMMIT TRANSACTION;
+        END
+
+        RETURN @Id;
+    END TRY
+    BEGIN CATCH
+        IF @@ERROR <> 0  
+        BEGIN
+            ROLLBACK TRANSACTION;
+            INSERT INTO tblErrorMessage (spName, errorMessage, systemDate)
+            VALUES ('[SP_GET_Employees]', ERROR_MESSAGE(), GETDATE());
+            SET @Id = 0;
+        END
+    END CATCH
+END
+
