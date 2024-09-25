@@ -6,9 +6,10 @@ It Has two part UI & API.
 # Implimentation
 Here only need Print method as well as webHostEnvironment and Encoding
 
-Extension = RDLC
+# Install Extension 
+RDLC Report Designer
 
-# Packages 
+# Install Packages 
 (1) AspNetCore.Reporting 
 (2) ReportViewerCore.NETCore
 (3) System.CodeDom
