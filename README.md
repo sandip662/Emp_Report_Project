@@ -1,1 +1,11 @@
 # Emp_Report_Project
+This is a normal and beginner WebApi crud operation, it is a only a WebApi from for begineer.
+But it has RDLC Report Implimentation and it is for Begineer and as well as its implemented packages
+It Has two part UI & API.
+
+# Implimentation
+Here only need Print method as well as webHostEnvironment and Encoding
+Install  Extension = RDLC
+Install  Packages = AspNetCore.Reporting , ReportViewerCore.NETCore, System.CodeDom, System.Security.Permission.
+
+
