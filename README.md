@@ -5,7 +5,13 @@ It Has two part UI & API.
 
 # Implimentation
 Here only need Print method as well as webHostEnvironment and Encoding
+
 Extension = RDLC
-Packages = (1) AspNetCore.Reporting , (2) ReportViewerCore.NETCore, (3) System.CodeDom, (4) System.Security.Permission
+
+Packages 
+(1) AspNetCore.Reporting 
+(2) ReportViewerCore.NETCore
+(3) System.CodeDom
+(4) System.Security.Permission
 
 
